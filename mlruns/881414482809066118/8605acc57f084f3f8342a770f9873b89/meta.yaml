@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/credit/mlruns/881414482809066118/8605acc57f084f3f8342a770f9873b89/artifacts
+deleted_time: 1719377799513
+end_time: 1719377510700
+entry_point_name: ''
+experiment_id: '881414482809066118'
+lifecycle_stage: deleted
+run_id: 8605acc57f084f3f8342a770f9873b89
+run_name: beautiful-rook-981
+run_uuid: 8605acc57f084f3f8342a770f9873b89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719377510518
+status: 4
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/credit/mlruns/881414482809066118/5ee9c285b723403da3233de7c71eae57/artifacts
+deleted_time: 1719379749911
+end_time: 1719379016109
+entry_point_name: ''
+experiment_id: '881414482809066118'
+lifecycle_stage: deleted
+run_id: 5ee9c285b723403da3233de7c71eae57
+run_name: rogue-skunk-294
+run_uuid: 5ee9c285b723403da3233de7c71eae57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719379015932
+status: 4
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/credit/mlruns/881414482809066118/3e6d80d4db6a408ab3c13ea92d9e85e3/artifacts
+end_time: 1719379656962
+entry_point_name: ''
+experiment_id: '881414482809066118'
+lifecycle_stage: active
+run_id: 3e6d80d4db6a408ab3c13ea92d9e85e3
+run_name: crawling-shrew-774
+run_uuid: 3e6d80d4db6a408ab3c13ea92d9e85e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719379646848
+status: 3
+tags: []
+user_id: felip

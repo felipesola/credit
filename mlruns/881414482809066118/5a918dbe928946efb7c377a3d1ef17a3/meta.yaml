@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/credit/mlruns/881414482809066118/5a918dbe928946efb7c377a3d1ef17a3/artifacts
+deleted_time: 1719379749912
+end_time: 1719379492374
+entry_point_name: ''
+experiment_id: '881414482809066118'
+lifecycle_stage: deleted
+run_id: 5a918dbe928946efb7c377a3d1ef17a3
+run_name: mercurial-cow-770
+run_uuid: 5a918dbe928946efb7c377a3d1ef17a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719379492267
+status: 4
+tags: []
+user_id: felip

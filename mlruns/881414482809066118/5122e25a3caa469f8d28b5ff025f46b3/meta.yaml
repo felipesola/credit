@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/credit/mlruns/881414482809066118/5122e25a3caa469f8d28b5ff025f46b3/artifacts
+end_time: 1719382003901
+entry_point_name: ''
+experiment_id: '881414482809066118'
+lifecycle_stage: active
+run_id: 5122e25a3caa469f8d28b5ff025f46b3
+run_name: abrasive-bird-102
+run_uuid: 5122e25a3caa469f8d28b5ff025f46b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719381994105
+status: 3
+tags: []
+user_id: felip

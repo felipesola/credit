@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/credit/mlruns/881414482809066118/a6e12c053a404cd28f30bcfe15022853/artifacts
+end_time: 1719379749823
+entry_point_name: ''
+experiment_id: '881414482809066118'
+lifecycle_stage: active
+run_id: a6e12c053a404cd28f30bcfe15022853
+run_name: aged-squid-378
+run_uuid: a6e12c053a404cd28f30bcfe15022853
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719379739693
+status: 3
+tags: []
+user_id: felip

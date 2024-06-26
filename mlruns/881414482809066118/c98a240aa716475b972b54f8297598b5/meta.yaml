@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/credit/mlruns/881414482809066118/c98a240aa716475b972b54f8297598b5/artifacts
+deleted_time: 1719377799512
+end_time: 1719377562015
+entry_point_name: ''
+experiment_id: '881414482809066118'
+lifecycle_stage: deleted
+run_id: c98a240aa716475b972b54f8297598b5
+run_name: peaceful-koi-83
+run_uuid: c98a240aa716475b972b54f8297598b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719377561823
+status: 4
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/credit/mlruns/881414482809066118/5001995f48244abbabe0d18b6bfa9dbb/artifacts
+end_time: 1719376261191
+entry_point_name: ''
+experiment_id: '881414482809066118'
+lifecycle_stage: active
+run_id: 5001995f48244abbabe0d18b6bfa9dbb
+run_name: unique-ram-477
+run_uuid: 5001995f48244abbabe0d18b6bfa9dbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719376251923
+status: 3
+tags: []
+user_id: felip

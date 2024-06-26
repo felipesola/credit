@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/credit/mlruns/881414482809066118/c6df1721a1c74424bc49ab76d2fea0e1/artifacts
+end_time: 1719377996880
+entry_point_name: ''
+experiment_id: '881414482809066118'
+lifecycle_stage: active
+run_id: c6df1721a1c74424bc49ab76d2fea0e1
+run_name: judicious-bee-380
+run_uuid: c6df1721a1c74424bc49ab76d2fea0e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719377987634
+status: 3
+tags: []
+user_id: felip

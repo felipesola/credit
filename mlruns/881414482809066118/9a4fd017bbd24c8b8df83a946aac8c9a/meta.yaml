@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/credit/mlruns/881414482809066118/9a4fd017bbd24c8b8df83a946aac8c9a/artifacts
+end_time: 1719379870074
+entry_point_name: ''
+experiment_id: '881414482809066118'
+lifecycle_stage: active
+run_id: 9a4fd017bbd24c8b8df83a946aac8c9a
+run_name: overjoyed-shark-532
+run_uuid: 9a4fd017bbd24c8b8df83a946aac8c9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719379860350
+status: 3
+tags: []
+user_id: felip

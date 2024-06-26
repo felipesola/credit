@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/credit/mlruns/881414482809066118/f74339d71edd446aac29834a4f80febb/artifacts
+end_time: 1719378187204
+entry_point_name: ''
+experiment_id: '881414482809066118'
+lifecycle_stage: active
+run_id: f74339d71edd446aac29834a4f80febb
+run_name: blushing-auk-53
+run_uuid: f74339d71edd446aac29834a4f80febb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719378176791
+status: 3
+tags: []
+user_id: felip

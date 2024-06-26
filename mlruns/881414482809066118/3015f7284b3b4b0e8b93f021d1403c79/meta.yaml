@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/credit/mlruns/881414482809066118/3015f7284b3b4b0e8b93f021d1403c79/artifacts
+end_time: 1719376363981
+entry_point_name: ''
+experiment_id: '881414482809066118'
+lifecycle_stage: active
+run_id: 3015f7284b3b4b0e8b93f021d1403c79
+run_name: mercurial-snake-886
+run_uuid: 3015f7284b3b4b0e8b93f021d1403c79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719376353703
+status: 3
+tags: []
+user_id: felip

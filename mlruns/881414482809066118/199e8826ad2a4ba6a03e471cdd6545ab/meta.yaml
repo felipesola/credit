@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/credit/mlruns/881414482809066118/199e8826ad2a4ba6a03e471cdd6545ab/artifacts
+end_time: 1719381947815
+entry_point_name: ''
+experiment_id: '881414482809066118'
+lifecycle_stage: active
+run_id: 199e8826ad2a4ba6a03e471cdd6545ab
+run_name: intrigued-ray-842
+run_uuid: 199e8826ad2a4ba6a03e471cdd6545ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719381936905
+status: 3
+tags: []
+user_id: felip

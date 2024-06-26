@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/credit/mlruns/881414482809066118/7edcfeaa7a7a47b2bb79afa8d42e56e4/artifacts
+end_time: 1719380632364
+entry_point_name: ''
+experiment_id: '881414482809066118'
+lifecycle_stage: active
+run_id: 7edcfeaa7a7a47b2bb79afa8d42e56e4
+run_name: handsome-ray-948
+run_uuid: 7edcfeaa7a7a47b2bb79afa8d42e56e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719380622654
+status: 3
+tags: []
+user_id: felip

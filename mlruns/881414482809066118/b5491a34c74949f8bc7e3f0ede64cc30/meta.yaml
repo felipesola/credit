@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/credit/mlruns/881414482809066118/b5491a34c74949f8bc7e3f0ede64cc30/artifacts
+end_time: 1719374673382
+entry_point_name: ''
+experiment_id: '881414482809066118'
+lifecycle_stage: active
+run_id: b5491a34c74949f8bc7e3f0ede64cc30
+run_name: able-snake-874
+run_uuid: b5491a34c74949f8bc7e3f0ede64cc30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719374662491
+status: 3
+tags: []
+user_id: felip

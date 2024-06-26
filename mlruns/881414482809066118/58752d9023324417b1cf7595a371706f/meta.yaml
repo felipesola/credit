@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/credit/mlruns/881414482809066118/58752d9023324417b1cf7595a371706f/artifacts
+deleted_time: 1719376284386
+end_time: 1719376233957
+entry_point_name: ''
+experiment_id: '881414482809066118'
+lifecycle_stage: deleted
+run_id: 58752d9023324417b1cf7595a371706f
+run_name: nervous-newt-288
+run_uuid: 58752d9023324417b1cf7595a371706f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719376233817
+status: 4
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/credit/mlruns/881414482809066118/eb54b244ae5b4d7ba5fa9cee595a5039/artifacts
+end_time: 1719382091120
+entry_point_name: ''
+experiment_id: '881414482809066118'
+lifecycle_stage: active
+run_id: eb54b244ae5b4d7ba5fa9cee595a5039
+run_name: thundering-toad-963
+run_uuid: eb54b244ae5b4d7ba5fa9cee595a5039
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719382081415
+status: 3
+tags: []
+user_id: felip

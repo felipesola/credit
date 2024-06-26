@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/credit/mlruns/881414482809066118/a450ae8d6b3e4b92bef2f92ab76f464e/artifacts
+end_time: 1719376651010
+entry_point_name: ''
+experiment_id: '881414482809066118'
+lifecycle_stage: active
+run_id: a450ae8d6b3e4b92bef2f92ab76f464e
+run_name: clumsy-panda-165
+run_uuid: a450ae8d6b3e4b92bef2f92ab76f464e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719376641800
+status: 3
+tags: []
+user_id: felip
